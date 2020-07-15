@@ -1,5 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is just to pratice on reactjs and redux on to show the movies from data.js file and allow user to add movie in favourites list unfavoiurite it .
+## Things Need to know :
+React
+Redux
+Components
+Javascript
+## Components are in componenets folder
 ## Available Scripts
 
 In the project directory, you can run:
